@@ -4,11 +4,47 @@
 
     
   <url>
-    <loc>http://rimworld-zh.com/mods/ratysz-rt-mods/</loc>
-    <lastmod>2016-12-30T19:48:09.409Z</lastmod>
+    <loc>http://rimworld-zh.com/mods/haplo-misc-mods/</loc>
+    <lastmod>2016-12-31T16:44:37.735Z</lastmod>
     <data>
         <display>
-        <title>[Ratysz] RT Mods RT系列Mod</title>
+        <title>[Haplo] Miscellaneous Misc系列模组</title>
+        <pubTime>2016-12-31T10:16:41.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="模组" url="http://rimworld-zh.com/categories/mods/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://rimworld-zh.com/mods/haplo-power-switch/</loc>
+    <lastmod>2016-12-31T16:35:09.427Z</lastmod>
+    <data>
+        <display>
+        <title>[Haplo] Power Switch 电路控制 [PS]</title>
+        <pubTime>2016-12-31T15:40:32.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="模组" url="http://rimworld-zh.com/categories/mods/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://rimworld-zh.com/mods/ratysz-rt-mods/</loc>
+    <lastmod>2016-12-31T15:50:39.870Z</lastmod>
+    <data>
+        <display>
+        <title>[Ratysz] RT Mods RT系列模组</title>
         <pubTime>2016-12-30T19:14:00.000Z</pubTime>
         
          
@@ -20,6 +56,25 @@
     </data>
     </url>
 
+    
+  <url>
+    <loc>http://rimworld-zh.com/mods/ykara-epoe/</loc>
+    <lastmod>2016-12-31T15:38:35.093Z</lastmod>
+    <data>
+        <display>
+        <title>[Ykara] Expanded Prosthetics and Organ Engineering 扩展假体与器官工程 [EPOE]</title>
+        <pubTime>2016-12-29T17:54:18.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="模组" url="http://rimworld-zh.com/categories/mods/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
     
   <url>
     <loc>http://rimworld-zh.com/mods/ratysz-mad-skills/</loc>
@@ -46,24 +101,6 @@
         <display>
         <title>[Marnador] More Vanilla Turrets 更多炮塔 [MVT]</title>
         <pubTime>2016-12-30T11:43:58.000Z</pubTime>
-        
-         
-           
-             
-              <breadCrumb title="模组" url="http://rimworld-zh.com/categories/mods/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://rimworld-zh.com/mods/ykara-epoe/</loc>
-    <lastmod>2016-12-30T12:54:51.934Z</lastmod>
-    <data>
-        <display>
-        <title>[Ykara] Expanded Prosthetics and Organ Engineering 扩展假体与器官工程 [EPOE]</title>
-        <pubTime>2016-12-29T17:54:18.000Z</pubTime>
         
          
            
