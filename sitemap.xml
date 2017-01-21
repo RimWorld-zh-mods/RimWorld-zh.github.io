@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://rimworld-zh.com/about/index.html</loc>
+    
+    <lastmod>2017-01-20T14:34:22.598Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://rimworld-zh.com/mods/haplo-misc-mods/</loc>
     
-    <lastmod>2017-01-19T18:31:02.387Z</lastmod>
+    <lastmod>2017-01-19T18:38:02.201Z</lastmod>
     
   </url>
   
@@ -33,13 +40,6 @@
     <loc>http://rimworld-zh.com/mods/edb-prepare-carefully/</loc>
     
     <lastmod>2017-01-18T19:03:20.023Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://rimworld-zh.com/about/index.html</loc>
-    
-    <lastmod>2017-01-18T17:04:55.932Z</lastmod>
     
   </url>
   
