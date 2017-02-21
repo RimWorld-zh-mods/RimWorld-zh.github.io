@@ -4,12 +4,66 @@
 
     
   <url>
-    <loc>http://rimworld-zh.com/mods/eatkenny-industrialisation/</loc>
-    <lastmod>2017-02-15T06:49:17.748Z</lastmod>
+    <loc>http://rimworld-zh.com/mods/eatkenny-turret-collection/</loc>
+    <lastmod>2017-02-21T13:52:49.557Z</lastmod>
     <data>
         <display>
-        <title>[eatKenny] Industrialisation 工业化</title>
-        <pubTime>2017-02-14T10:11:11.000Z</pubTime>
+        <title>[eatKenny] Turret Collection 炮塔合集</title>
+        <pubTime>2017-02-21T13:46:34.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="模组" url="http://rimworld-zh.com/categories/mods/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://rimworld-zh.com/mods/eatkenny-high-caliber/</loc>
+    <lastmod>2017-02-21T13:49:26.540Z</lastmod>
+    <data>
+        <display>
+        <title>[eatKenny] High Caliber 现代武器</title>
+        <pubTime>2017-02-21T13:36:39.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="模组" url="http://rimworld-zh.com/categories/mods/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://rimworld-zh.com/mods/eatkenny-ancient-asian-weapons/</loc>
+    <lastmod>2017-02-21T13:34:53.429Z</lastmod>
+    <data>
+        <display>
+        <title>[eatKenny] Ancient Asian Weapons 古亚洲武器</title>
+        <pubTime>2017-02-21T13:16:10.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="模组" url="http://rimworld-zh.com/categories/mods/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://rimworld-zh.com/mods/ykara-epoe/</loc>
+    <lastmod>2017-02-21T13:08:44.867Z</lastmod>
+    <data>
+        <display>
+        <title>[Ykara] Expanded Prosthetics and Organ Engineering 扩展假体与器官工程 [EPOE]</title>
+        <pubTime>2016-12-29T17:54:18.000Z</pubTime>
         
          
            
@@ -23,11 +77,29 @@
     
   <url>
     <loc>http://rimworld-zh.com/mods/dismar-vegetable-garden/</loc>
-    <lastmod>2017-02-14T10:10:11.256Z</lastmod>
+    <lastmod>2017-02-21T13:06:20.059Z</lastmod>
     <data>
         <display>
         <title>[dismar] Vegetable Garden 菜园子</title>
         <pubTime>2016-12-27T15:02:41.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="模组" url="http://rimworld-zh.com/categories/mods/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://rimworld-zh.com/mods/eatkenny-industrialisation/</loc>
+    <lastmod>2017-02-15T06:49:17.748Z</lastmod>
+    <data>
+        <display>
+        <title>[eatKenny] Industrialisation 工业化</title>
+        <pubTime>2017-02-14T10:11:11.000Z</pubTime>
         
          
            
@@ -263,24 +335,6 @@
         <display>
         <title>[Haplo] Power Switch 电路控制 [PS]</title>
         <pubTime>2016-12-31T15:40:32.000Z</pubTime>
-        
-         
-           
-             
-              <breadCrumb title="模组" url="http://rimworld-zh.com/categories/mods/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://rimworld-zh.com/mods/ykara-epoe/</loc>
-    <lastmod>2016-12-31T15:38:35.093Z</lastmod>
-    <data>
-        <display>
-        <title>[Ykara] Expanded Prosthetics and Organ Engineering 扩展假体与器官工程 [EPOE]</title>
-        <pubTime>2016-12-29T17:54:18.000Z</pubTime>
         
          
            
