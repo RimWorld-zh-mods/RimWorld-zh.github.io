@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://rimworld-zh.com/about/index.html</loc>
+    
+    <lastmod>2017-02-21T18:54:15.533Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://rimworld-zh.com/mods/rhtstm-rts-weapon-pack/</loc>
     
     <lastmod>2017-02-21T18:43:21.580Z</lastmod>
@@ -54,13 +61,6 @@
     <loc>http://rimworld-zh.com/mods/dismar-vegetable-garden/</loc>
     
     <lastmod>2017-02-21T13:06:20.059Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://rimworld-zh.com/about/index.html</loc>
-    
-    <lastmod>2017-02-12T12:03:33.141Z</lastmod>
     
   </url>
   
