@@ -10,7 +10,7 @@
     
     <title>
         
-            友情链接 | 
+            [Orion] Hospitality 访客招募/招待 | 
         
         边缘汉化组
     </title>
@@ -48,7 +48,7 @@
     <!-- The Open Graph protocol -->
     <meta property="og:url" content="http://rimworld-zh.com">
     <meta property="og:type" content="blog">
-    <meta property="og:title" content="友情链接 | 边缘汉化组">
+    <meta property="og:title" content="[Orion] Hospitality 访客招募/招待 | 边缘汉化组">
     <meta property="og:description" content="边缘汉化组 RimWorld-zh.com">
 
     <!--[if lte IE 9]>
@@ -202,141 +202,272 @@
 
                     <!-- Post TOC -->
 
+    
+    <!-- Back Button -->
+    <!--
+    <div class="material-back" id="backhome-div" tabindex="0">
+        <a class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon"
+           href="#" onclick="window.history.back();return false;"
+           target="_self"
+           role="button"
+           data-upgraded=",MaterialButton,MaterialRipple">
+            <i class="material-icons" role="presentation">arrow_back</i>
+            <span class="mdl-button__ripple-container">
+                <span class="mdl-ripple"></span>
+            </span>
+        </a>
+    </div>
+    -->
+
+    <!-- Left aligned menu below button -->
+    <button id="post-toc-trigger-btn"
+        class="mdl-button mdl-js-button mdl-button--icon">
+        <i class="material-icons">format_list_numbered</i>
+    </button>
+
+    <ul class="post-toc-wrap mdl-menu mdl-menu--bottom-left mdl-js-menu mdl-js-ripple-effect" for="post-toc-trigger-btn">
+        <ol class="post-toc"><li class="post-toc-item post-toc-level-1"><a class="post-toc-link" href="#Orion-Hospitality-访客招募-招待"><span class="post-toc-number">1.</span> <span class="post-toc-text">[Orion] Hospitality 访客招募/招待</span></a><ol class="post-toc-child"><li class="post-toc-item post-toc-level-2"><a class="post-toc-link" href="#模组信息"><span class="post-toc-number">1.1.</span> <span class="post-toc-text">模组信息</span></a></li><li class="post-toc-item post-toc-level-2"><a class="post-toc-link" href="#订阅与下载"><span class="post-toc-number">1.2.</span> <span class="post-toc-text">订阅与下载</span></a></li><li class="post-toc-item post-toc-level-2"><a class="post-toc-link" href="#模组简介"><span class="post-toc-number">1.3.</span> <span class="post-toc-text">模组简介</span></a></li></ol></li></ol>
+
+        <!--
+        <li class="mdl-menu__item">
+            Some Action
+        </li>
+        -->
+    </ul>
+
+
+
 
 <!-- Layouts -->
 
-    <!-- Single Links Page -->
-    <style>
-    .md-links {
-        min-height: calc(100% - 120px - 5pc - 6em);
-        text-align: center;
-        overflow: auto;
-        padding: 0;
-        margin: 0 auto;
-        max-width: 320px;
-    }
+    <!-- Post Module -->
+    <div class="material-post_container">
 
-    @media screen and (min-width: 640px) {
-        .md-links {
-            max-width: 640px;
-        }
-    }
+        <div class="material-post mdl-grid">
+            <div class="mdl-card mdl-shadow--4dp mdl-cell mdl-cell--12-col">
 
-    @media screen and (min-width: 960px) {
-        .md-links {
-            max-width: 960px;
-        }
-    }
-
-    @media screen and (min-width: 1280px) {
-        .md-links {
-            max-width: 1280px;
-        }
-    }
-
-    @media screen and (min-width: 1600px) {
-        .md-links {
-            max-width: 1600px;
-        }
-    }
-
-    @media screen and (max-width: 480px) {
-        .md-links {
-            min-height: calc(100% - 200px - 5pc - 6em);
-            margin-top: 6em;
-        }
-    }
-
-    .md-links-item {
-        background: #fff;
-        box-shadow: 0 2px 2px 0 rgba(0, 0, 0, .14), 0 3px 1px -2px rgba(0, 0, 0, .2), 0 1px 5px 0 rgba(0, 0, 0, .12);
-        height: 72px;
-        line-height: 15px;
-        margin: 20px 10px;
-        padding: 0px 0px;
-        transition: box-shadow 0.25s;
-    }
-
-    .md-links a {
-        color: #333;
-        text-decoration: none;
-    }
-
-    .md-links li {
-        width: 300px;
-        float: left;
-        list-style: none;
-    }
-
-    .md-links-item img {
-        float: left;
-        box-shadow: 0 2px 2px 0 rgba(0, 0, 0, .14), 0 3px 11px -2px rgba(0, 0, 0, .2), 0 1px 5px 0 rgba(0, 0, 0, .12);
-    }
-
-    .md-links-item:hover {
-        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
-    }
-
-    .md-links-item a:hover{
-        cursor: pointer;
-    }
-
-    .md-links-title {
-        font-size: 20px;
-        line-height: 50px;
-    }
-
-    #scheme-Paradox .mdl-mini-footer{
-        clear: left;
-    }
-    #bottom{
-        position: relative;
-    }
-</style>
-
-<ul class="md-links">
+                <!-- Post Header(Thumbnail & Title) -->
+                
+    <!-- Paradox Post Header -->
     
+        <!-- Custom Thumbnail -->
+        <div class="post_thumbnail-custom mdl-card__media mdl-color-text--grey-50" style="background-image:url(../../images/mods/orion/hospitality_preview.png)">
+    
+            <p class="article-headline-p">
+                [Orion] Hospitality 访客招募/招待
+            </p>
+        </div>
+
+
+
+
+
+                
+                    <!-- Paradox Post Info -->
+                    <div class="mdl-color-text--grey-700 mdl-card__supporting-text meta">
+
+    <!-- Author Avatar -->
+    <div id="author-avatar">
+        <img src="/img_mine/avatar.png" width="44px" height="44px" alt="Author Avatar"/>
+    </div>
+    <!-- Author Name & Date -->
+    <div>
+        <strong>RimWorld-zh</strong>
+        <span>2月 21, 2017</span>
+    </div>
+
+    <div class="section-spacer"></div>
+
+    <!-- Favorite -->
+    <!--
+        <button id="article-functions-like-button" class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon btn-like">
+            <i class="material-icons" role="presentation">favorite</i>
+            <span class="visuallyhidden">favorites</span>
+        </button>
+    -->
+
+    <!-- Qrcode -->
+    
+
+    <!-- Tags (bookmark) -->
+    
+    <button id="article-functions-viewtags-button" class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon">
+        <i class="material-icons" role="presentation">bookmark</i>
+        <span class="visuallyhidden">bookmark</span>
+    </button>
+    <ul class="mdl-menu mdl-menu--bottom-right mdl-js-menu mdl-js-ripple-effect" for="article-functions-viewtags-button">
+        <li class="mdl-menu__item">
         
-            <li class="md-links-item">
-                <a href="http://www.gamejilu.com/category/project/rimworld/" title="www.gamejilu.com" target="_blank">
-                    <img src="../../images/links/avatar_gamjilu.jpg" alt="www.gamejilu.com" width="72px"/>
-                    <span class="md-links-title">www.gamejilu.com</span><br />
-                    <span>饼叔的游戏笔记</span>
-                </a>
+    </ul>
+    
+
+    <!-- Share -->
+    <button id="article-fuctions-share-button" class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon">
+    <i class="material-icons" role="presentation">share</i>
+    <span class="visuallyhidden">share</span>
+</button>
+<ul class="mdl-menu mdl-menu--bottom-right mdl-js-menu mdl-js-ripple-effect" for="article-fuctions-share-button">
+    
+    <!-- Leancloud Views -->
+        <a class="post_share-link" href="#">
+            <li class="mdl-menu__item">
+                <span id="/mods/orion-hospitality/" class="leancloud-views_num" data-flag-title="[Orion] Hospitality 访客招募/招待">
+     &nbsp;浏览量
+</span>
+
             </li>
-        
-            <li class="md-links-item">
-                <a href="http://rimworld.huiji.wiki" title="rimworld.huiji.wiki" target="_blank">
-                    <img src="../../images/links/avatar_wiki.jpg" alt="rimworld.huiji.wiki" width="72px"/>
-                    <span class="md-links-title">rimworld.huiji.wiki</span><br />
-                    <span>官方中文维基</span>
-                </a>
+        </a>
+    
+
+    
+
+    <!-- Share Weibo -->
+    
+        <a class="post_share-link" href="http://service.weibo.com/share/share.php?appkey=&title=[Orion] Hospitality 访客招募/招待&url=http://rimworld-zh.com//mods/orion-hospitality/index.html&pic=&searchPic=false&style=simple" target="_blank">
+            <li class="mdl-menu__item">
+                分享到微博
             </li>
-        
-            <li class="md-links-item">
-                <a href="http://tieba.baidu.com/f?kw=rimworld" title="贴吧 - RimWorld吧" target="_blank">
-                    <img src="../../images/links/avatar_tieba.jpg" alt="贴吧 - RimWorld吧" width="72px"/>
-                    <span class="md-links-title">贴吧 - RimWorld吧</span><br />
-                    <span>水水更健康</span>
-                </a>
+        </a>
+    
+
+    <!-- Share Twitter -->
+    
+        <a class="post_share-link" href="https://twitter.com/intent/tweet?text=[Orion] Hospitality 访客招募/招待&url=http://rimworld-zh.com//mods/orion-hospitality/index.html&via=RimWorld-zh" target="_blank">
+            <li class="mdl-menu__item">
+                分享到 Twitter
             </li>
-        
+        </a>
+    
+
+    <!-- Share Facebook -->
+    
+        <a class="post_share-link" href="https://www.facebook.com/sharer/sharer.php?u=http://rimworld-zh.com//mods/orion-hospitality/index.html" target="_blank">
+            <li class="mdl-menu__item">
+                分享到 Facebook
+            </li>
+        </a>
+    
+
+    <!-- Share Google+ -->
+    
+        <a class="post_share-link" href="https://plus.google.com/share?url=http://rimworld-zh.com//mods/orion-hospitality/index.html" target="_blank">
+            <li class="mdl-menu__item">
+                分享到 Google+
+            </li>
+        </a>
+    
+
+    <!-- Share LinkedIn -->
+    
+
+    <!-- Share QQ -->
+    
+
+    <!-- Share Telegram -->
     
 </ul>
 
-<script>
-    var adjustFooter = function() {
-        if( ($('#bottom').offset().top + $('#bottom').outerHeight() )<$(window).height() ) {
-            var footerBottom = $(window).height() - $('#bottom').outerHeight() - $('#bottom').offset().top;
-            $('#bottom').css('bottom', '-' + footerBottom + 'px');
-        }
-    };
-    $(document).ready(function() {
-        adjustFooter();
-    });
-</script>
+</div>
+
+                
+
+                <!-- Post Content -->
+                <div id="post-content" class="markdown-Github mdl-color-text--grey-700 mdl-card__supporting-text fade out">
+    
+        <blockquote>
+<p>NTR（雾）</p>
+</blockquote>
+<a id="more"></a>
+<p><img src="../../images/mods/orion/hospitality_preview.png" alt="hos"></p>
+<h1 id="Orion-Hospitality-访客招募-招待"><a href="#Orion-Hospitality-访客招募-招待" class="headerlink" title="[Orion] Hospitality 访客招募/招待"></a>[Orion] Hospitality 访客招募/招待</h1><h2 id="模组信息"><a href="#模组信息" class="headerlink" title="模组信息"></a>模组信息</h2><blockquote>
+<p>作者：Orion</p>
+<p>翻译：cainiaowu, duduluu, yuri</p>
+<p>原始发布页面：<a href="https://ludeon.com/forums/index.php?topic=11444.0" target="_blank" rel="external"><i class="fa fa-link" aria-hidden="true"> Ludeon 论坛</i></a></p>
+<p>源代码：<a href="https://github.com/OrionFive/Hospitality" target="_blank" rel="external"><i class="fa fa-github" aria-hidden="true"> GitHub</i></a></p>
+<p>许可协议：<a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="external"><i class="fa fa-balance-scale" aria-hidden="true"> CC BY-SA 4.0I</i></a></p>
+<p>模组版本：<i class="fa fa-puzzle-piece" aria-hidden="true"> 1.16f</i></p>
+<p>适配游戏版本：<i class="fa fa-tag" aria-hidden="true"> 0.16.1393</i></p>
+<p>翻译内置进度：<i class="fa fa-exclamation-circle" aria-hidden="true" title="翻译未内置，请从汉化组分流点下载" style="color:#b7aa00"> 内置翻译未更新，作者已采纳新翻译，将内置于下一版本</i><br><!--<i class="fa fa-check-circle" aria-hidden="true" title="翻译已内置于原作者的模组中，可直接从Steam工坊订阅" style="color:#097c25"> 已内置</i>--></p>
+</blockquote>
+<h2 id="订阅与下载"><a href="#订阅与下载" class="headerlink" title="订阅与下载"></a>订阅与下载</h2><blockquote>
+<p><a href="http://steamcommunity.com/sharedfiles/filedetails/?id=753498552" target="_blank" rel="external"><i class="fa fa-steam-square" aria-hidden="true"> Steam-Workshop</i></a></p>
+<p><a href="https://github.com/RimWorld-zh/Hospitality/releases" target="_blank" rel="external"><i class="fa fa-github" aria-hidden="true"> GitHub（汉化组分流点）</i></a><br><a href="http://pan.baidu.com/s/1hsfwcAC" target="_blank" rel="external"><i class="fa fa-paw" aria-hidden="true"> 百度云（汉化组分流点）</i></a></p>
+</blockquote>
+<h2 id="模组简介"><a href="#模组简介" class="headerlink" title="模组简介"></a>模组简介</h2><blockquote>
+<p><i class="fa fa-check-circle" aria-hidden="true" style="color:#097c25"> 不需要新建殖民地</i></p>
+<p><i class="fa fa-exclamation-triangle" aria-hidden="true" style="color:#a40000"> 兼容性警告</i><br>有可能导致其他模组的派系不袭击殖民地。<br>已知不兼容的模组：  </p>
+<ul>
+<li>Refugee Stats 流浪者属性</li>
+<li>Dubs Bad Hygiene Dubs卫生/厕所</li>
+<li>Orassans 猫人帝国</li>
+<li>Prisoners can Joy 囚犯可娱乐（有兼容补丁）</li>
+</ul>
+</blockquote>
+<p>增加「访客用床」供访客睡觉。<br>访客的人物信息会增加一个「访客」标签，打开后可设置有关访客的选项，以及「招募访客」（当然这会以降低派系的友好度为代价）。<br>访客会使用你的餐厅、娱乐设施，以此对你的招待进行评分。评分高可提高派系友好度，评分低反之。<br>被救援的角色有几率会加入你的派系。<br>流浪者和逃亡者加入事件会优先选择有关系的或注明的角色。</p>
+
+    
+
+    
+</div>
 
 
+                
+
+                <!-- Post Comments -->
+                
+                    
+    <!-- 使用多说评论 -->
+    <link rel="stylesheet" href="/css/duoshuo.min.css">
+<style>
+    #ds-thread #ds-reset .ds-post-button{
+        background-color: #795548 !important;
+    }
+    #ds-wrapper #ds-reset .ds-icons-32{
+        background-color: #795548 !important;
+    }
+    #ds-reset .ds-highlight {
+        color: #795548 !important;
+    }
+</style>
+<div id="comments">
+    <!-- 多说评论框 start -->
+    <div class="ds-thread"
+        data-thread-key=""
+        data-url="http://rimworld-zh.com/mods/orion-hospitality/"
+        data-title="[Orion] Hospitality 访客招募/招待">
+    </div>
+    <!-- 多说评论框 end -->
+</div>
+
+
+
+
+
+                
+            </div>
+
+            <!-- Post Prev & Next Nav -->
+            <nav class="material-nav mdl-color-text--grey-50 mdl-cell mdl-cell--12-col">
+    <!-- Prev Nav -->
+    
+
+    <!-- Section Spacer -->
+    <div class="section-spacer"></div>
+
+    <!-- Next Nav -->
+    
+        <a href="/mods/rhtstm-rts-weapon-pack/" id="post_nav-older" class="next-content">
+            旧篇
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <button class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon mdl-color--white mdl-color-text--grey-900" role="presentation">
+                <i class="material-icons">arrow_forward</i>
+            </button>
+        </a>
+    
+</nav>
+
+        </div>
+    </div>
 
 
 
@@ -579,6 +710,14 @@ It will not impact the appearance and can give developers a lot of support :)
 </aside>
 
                     
+
+                    
+                        <!-- Footer Top Button -->
+                        <div class="toTop-wrap">
+    <a href="#top" class="toTop">
+        <i class="material-icons footer_top-i">expand_less</i>
+    </a>
+</div>
 
                     
 
