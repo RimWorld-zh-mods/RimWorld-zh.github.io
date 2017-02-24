@@ -2,9 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://rimworld-zh.com/mods/fluffy-mods/</loc>
+    
+    <lastmod>2017-02-24T12:22:31.125Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://rimworld-zh.com/about/index.html</loc>
     
-    <lastmod>2017-02-21T18:54:15.533Z</lastmod>
+    <lastmod>2017-02-24T11:07:45.349Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://rimworld-zh.com/mods/unlimitedhugs-hugslib/</loc>
+    
+    <lastmod>2017-02-24T10:20:32.473Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://rimworld-zh.com/mods/eatkenny-high-caliber/</loc>
+    
+    <lastmod>2017-02-22T08:50:27.606Z</lastmod>
     
   </url>
   
@@ -47,13 +68,6 @@
     <loc>http://rimworld-zh.com/mods/ykara-epoe/</loc>
     
     <lastmod>2017-02-21T14:55:07.947Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://rimworld-zh.com/mods/eatkenny-high-caliber/</loc>
-    
-    <lastmod>2017-02-21T13:49:26.540Z</lastmod>
     
   </url>
   
