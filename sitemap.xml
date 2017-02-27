@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://rimworld-zh.com/mods/unlimitedhugs-hugslib/</loc>
+    
+    <lastmod>2017-02-27T16:38:41.190Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://rimworld-zh.com/mods/fluffy-mods/</loc>
     
     <lastmod>2017-02-25T18:16:21.215Z</lastmod>
@@ -40,13 +47,6 @@
     <loc>http://rimworld-zh.com/about/index.html</loc>
     
     <lastmod>2017-02-24T20:50:19.205Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://rimworld-zh.com/mods/unlimitedhugs-hugslib/</loc>
-    
-    <lastmod>2017-02-24T10:20:32.473Z</lastmod>
     
   </url>
   
